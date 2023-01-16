@@ -1,4 +1,4 @@
-
+# Schalge Lock plugin for Homebridge
 
 `Basically the setup would be to download a yonomi app and create an account, and use postman to query the locks to get the lock ID, unlockactionId and LockactionID, in put them into the config.json and then you'll be able to unlock the locks with the api. It doesn't update well when the thumb screw is turned. To remedy this, i wrote a script to query out the accessories page of homebridge every 5 seconds.
 `
